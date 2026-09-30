@@ -7,7 +7,7 @@ The program allows users to create and modify a text document line by line. It s
 ## Team Members
 
 * Member 1: [PRAYAG KISHORE]
-* Member 2: [JAYA PRANAY]
+* Member 2: [R.JAYA PRANAY RAJU]
 * Member 3: [MD ANIS]
 
 ## Features
